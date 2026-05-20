@@ -1,5 +1,5 @@
 <h1 align="center">
-  Del Dato Crudo a la Estrategia: Ciencia de Datos con Enfoque de Negocio
+  Del dato crudo a la Estrategia: Ciencia de datos con enfoque de Negocio
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
